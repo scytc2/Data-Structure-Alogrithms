@@ -6,6 +6,6 @@ Hello!
 
 #### Tree
 
-- [Implement of Binary Search Tree](tree/BST.md)
-- [Implement of Binary Tree Traversal](tree/BTT.md)
+- [Implement of Binary Search Tree](Tree/BST.md)
+- [Implement of Binary Tree Traversal](Tree/BTT.md)
 
