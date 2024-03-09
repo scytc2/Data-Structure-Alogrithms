@@ -4,8 +4,16 @@ Hello!
 
 ## Context
 
-#### Tree
+### Tree
 
-- [Implement of Binary Search Tree](Tree/BST.md)
-- [Implement of Binary Tree Traversal](Tree/BTT.md)
+- #### note
+
+  - [Binary Tree](Tree/Tree-structure.md)
+
+- #### code
+
+  - [Implement of Binary Search Tree](Tree/BST.cpp)
+
+  - [Implement of Binary Tree Traversal](Tree/BTT.cpp)
+
 
